@@ -1,8 +1,10 @@
 # Classification Animals (Cat , Dog , Panda) with CNN
 ## plot
 <img src = "/output/plot.png"/>
-## Accuracy
+
+##  Accuracy
 <img src = "/output/out1.png"/>
+
 ## Predictions
 ![print1](output/preds1.png)
 
