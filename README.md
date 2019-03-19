@@ -1,6 +1,6 @@
 # Classification Animals (Cat , Dog , Panda) with CNN
 
-<img src = "/output/plot.png"/>   <img src = "/output/out.png"/>
+<img src = "/output/plot.png"/>   <img src = "/output/out1.png"/>
 
 ![print1](output/preds1.png)
 
